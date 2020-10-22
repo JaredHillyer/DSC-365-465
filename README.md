@@ -1,3 +1,3 @@
 # DSC-365-465
-For class
+For class.\n
 I don't know how to use git.
